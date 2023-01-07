@@ -158,7 +158,6 @@ li i{
     .heading{
         display: flex;
         justify-content: center;
-        border: 1px solid;
         width: 30em;
         
        
@@ -203,8 +202,7 @@ li i{
 }
 @media screen and (max-width: 768px) {
     .mockup{
-       
-       border: 1px;
+   
     }
 }
 
@@ -260,7 +258,7 @@ li i{
 @media screen and (max-width: 400px) {
     .heading {
      margin: 0 auto;
-       border: 1px solid;
+       
        
     }
 }
